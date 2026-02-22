@@ -15,22 +15,9 @@ The project focuses on layout design, responsive structure, and UI replication.
 - CSS3  
 
 ## Screenshots
-<p align="center">
-  <img src="ss1.png" width="800">
-</p>
-
-<p align="center">
-  <img src="ss2.png" width="800">
-</p>
-
-<p align="center">
-  <img src="ss3.png" width="800">
-</p>
+![Screenshot 1](intro/ss1.png)
+![Screenshot 2](intro/ss2.png)
+![Screenshot 3](intro/ss3.png)
 
 ## Purpose
 Built to strengthen my front-end development skills and understand real-world UI structuring.
-
-## Future Improvements
-- Add JavaScript functionality  
-- Implement search feature  
-- Improve mobile responsiveness  
